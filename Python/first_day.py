@@ -61,5 +61,6 @@ elif char =="o":
 elif char =="u":
     print("vowel is Present")
 else:
-    print("Vowel is not present")"""
+    print("Vowel is not present")
+"""
 
